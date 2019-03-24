@@ -1,0 +1,52 @@
+{
+  "name": "DPWBot",
+  "padlock": "5o6Z60KmFhTc6ojfnjXpnQ==!3Iz+bNs5rpS5ezI/KQ/PnmEp7pkLscp9GO0BXMeApPNEhaYJ0EVSR7lGtNkkMfek",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "8d48e225-0906-403f-aad7-3377fe73d5d2",
+      "resourceGroup": "rg-SFDPHDemo",
+      "serviceName": "DPWBot",
+      "type": "abs",
+      "name": "DPWBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "G1wCDjlgtjTPuCF0G7CfEQ==!TXni+zjqi15pC4H6E2qCvyeUksRzbNBuLiUwjrYzTGXcaXiNmhN6DSFBLUwj1VcWffu8kaCTU04igwUjuR8EpeYK4frL9voBpJ9G5TdSe8sh5LPAMsZ50jdhfakTSZVXreZOUjlua7EFraL1Zbv9gOsFN7Pxxgi6SRUGWrJE6z5kqKaOFEJtTkkmwgqajq4VgpxEj9dYyu4+nEvl2PKnTw==",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "8d48e225-0906-403f-aad7-3377fe73d5d2",
+      "resourceGroup": "rg-SFDPHDemo",
+      "serviceName": "dpwbot81f0",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "cd03e75e-09ba-4c1e-8a6d-b738e548e164",
+      "appPassword": "LAK4rGJPkNT1lmcQDV8AAw==!D/THP3RpZAWm5VMU7f8K6GnAwMNxHvSrGV0kNRsJvCw=",
+      "endpoint": "https://dpwbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "W/9z2OhdoMZ0WTqEn8KVSg==!jf0owsd+s/J/Bs/HQstcZzvZDUyxZmLrPfcQ+jRTU2QslDsN1qXpBr0bDkOLpG88",
+      "applicationId": "a50ec79e-cf30-460c-8434-94ee47884ce8",
+      "apiKeys": {},
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "8d48e225-0906-403f-aad7-3377fe73d5d2",
+      "resourceGroup": "rg-SFDPHDemo",
+      "serviceName": "DPWBotsekc6u",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

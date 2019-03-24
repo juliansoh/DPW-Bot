@@ -1,0 +1,52 @@
+{
+  "name": "2019EurekaBot",
+  "padlock": "5MaH9VCoEVBLHtwewD9sjA==!OAwPkadQodDVgpVbHp5cDekrlXAL+OoAyr3SUF2XdAwefhOTy6UUuksavympLxHT",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "4e234d59-b8fc-4ffd-bd01-54591f091d2c",
+      "resourceGroup": "20180924WebBot",
+      "serviceName": "2019EurekaBot",
+      "type": "abs",
+      "name": "2019EurekaBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "v955x4tafNzG49kLfU6OTg==!cFPuCeDat2SNftxa+eEdmUgodx8+56b+7RQROGxR8mc7evK8TSqxTI85Ptn3p3o3rXBS+mrminlV5DaVUR1WKTTFJZbikiP1jtSLUbr0LmUPtHLmgXGhMY3xvrfWcW2+viQwMuv9oeitCFzLZPqcfEIAhq9Tc/u5kjP/6n3iuSDhDO1nyR0i10co9TibemN+oSfabJfjbcMMtXRkQ453j6AeZjRG48tHqZc3kLD+uuE=",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "4e234d59-b8fc-4ffd-bd01-54591f091d2c",
+      "resourceGroup": "20180924WebBot",
+      "serviceName": "2019eurekabot9709",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "e029d62b-4adb-4829-b2ef-0ccab94aff46",
+      "appPassword": "84eb9KV0C/TiO2F1OI8J3A==!Y2LCH0ANH2H4/jkImFDEtgVu7pZM1xEhiR8H2wd5d+A=",
+      "endpoint": "https://2019eurekabot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "hjT7p7clNuw6CMKdOydU2Q==!Wy3NWtMJx4k9kNJOnDLEqzM79/Anwy7StCvKeP9tzCledzhRCr3B44Qg6pI2deO+",
+      "applicationId": "ee100a40-d9e5-45ec-b167-528d9cbabf93",
+      "apiKeys": {},
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "4e234d59-b8fc-4ffd-bd01-54591f091d2c",
+      "resourceGroup": "20180924WebBot",
+      "serviceName": "2019EurekaBotvagl7i",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
